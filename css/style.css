@@ -1,0 +1,45 @@
+
+#encabezado{
+    font-size: 30px;
+    text-align:left;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: red; /* Cambia este valor para elegir tu color de enlace preferido */
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+/*Para la barra de navegacion*/
+#nav {
+    border: 3px solid black;
+    background-color: #fff;
+    color: #000;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+
